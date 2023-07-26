@@ -849,6 +849,7 @@
     -moz-background-size: cover;
          background-size: cover;
     padding-bottom: 150px;
+    min-height: 105vh;
   }
   .intro .color-layer {
     background-image: url("demo-pattern.svg");
@@ -857,6 +858,7 @@
     -moz-background-size: auto;
          background-size: auto;
   }
+
   @media only screen and (min-width: 768px) {
     .intro {
       padding-bottom: 350px;

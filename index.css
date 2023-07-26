@@ -849,7 +849,7 @@
     -moz-background-size: cover;
          background-size: cover;
     padding-bottom: 150px;
-    min-height: 105vh;
+    min-height: 100vh;
   }
   .intro .color-layer {
     background-image: url("demo-pattern.svg");

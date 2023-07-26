@@ -917,10 +917,13 @@
     padding: 10rem -moz-calc(10% - 1.5rem);
     padding: 10rem calc(10% - 1.5rem);
     text-align: center;
+    padding-top: 10rem calc(10% - 3rem);
   }
   @media only screen and (min-width: 1200px) {
     .headline {
       padding: 13rem 8.5rem;
+      padding-top: 7rem ;
+
     }
   }
   @media only screen and (min-width: 1400px) {
@@ -1317,7 +1320,7 @@
     background-position: center;
     -moz-background-size: cover;
          background-size: cover;
-    background-image: url("2.jpg");
+    background-image: url("party2.jpg");
   }
   @media only screen and (min-width: 1200px) {
     .subscribe {

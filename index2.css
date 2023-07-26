@@ -14,8 +14,35 @@ html {
 }
 
 
+.logo_img_mid
+{
+  border-radius: 500px;
+  height: 5em;
+  width: 5em;
+  display:inline;
+}
 
 
+
+.reg_btn
+{
+  color:white;
+  font-weight :600;
+  text-transform :uppercase;
+  text-decoration: underline!important;
+  text-decoration-color: red!important;
+  text-underline-offset: 4px;
+
+
+}
+.reg_btn:hover
+{
+  text-decoration: underline!important;
+  text-decoration-color: red!important;
+  color:white!important;
+  text-underline-offset: 4px;
+
+}
 
 
 
@@ -67,3 +94,61 @@ html {
       flex: 100%;
     }
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .form-control-file
+  {
+    color:white;
+  }
+  input, textarea {
+    /* background-color: white!important; */
+    border-radius: 5px;
+  }
+
+  .form-group
+  {
+    text-align: left;
+    padding-top: 1em;;
+  }
+  .form-label
+  {
+    color:white;
+  /* text-transform :uppercase; */
+
+  }
+
+  select
+  {
+    display:block;
+    width:100%;
+    height:4.4rem;
+    background-color: transparent !important;
+    border-radius: 5px;
+    border-color:white;
+  }
+
+  select::selection
+  {
+    border-color:#e51743;
+
+  }
+
+  option { 
+   
+    background-color: transparent !important;
+    background: transparent !important;
+
+}
+

@@ -850,6 +850,8 @@
          background-size: cover;
     padding-bottom: 150px;
     min-height: 100vh;
+    max-height: 115vh;
+
   }
   .intro .color-layer {
     background-image: url("demo-pattern.svg");

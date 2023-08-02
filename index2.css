@@ -96,16 +96,13 @@ html {
   }
 
 
-
-
-
-
-
-
-
-
-
-
+  @media screen and (max-width: 420px) {
+    .frame_div
+    {
+      padding:0;
+    }
+  }
+ 
 
 
   .form-control-file
@@ -161,3 +158,4 @@ html {
   height: 40vw;
 
 }
+

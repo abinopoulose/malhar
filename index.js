@@ -11,7 +11,7 @@ setTimeout(function() {
 
 
 
-let comingDate = new Date('Feb 8, 2024 13:12:00')
+let comingDate = new Date('2023-09-16 12:00')
 
 let d = document.getElementById('days')
 let h = document.getElementById('hours')
